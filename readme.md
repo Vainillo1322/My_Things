@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a calculator, it can do what a basic calculator does + personalization settings.
+This is a calculator, it can do what a basic calculator does + personalization settings.  
 I'm learning java and I wanted to do a "simple" console program, that's why I made this Simple Calculator.
 
 ## Features
@@ -25,7 +25,7 @@ Also it has a little message when you try to divide something by 0 and when you 
 
 ## Requirements
 
-For the .jar version in *Releases* you need **Java 26 or later**
+For the .jar version in *Releases* you need **Java 26 or later**  
 If you want to *compilate it yourself* you need **JDK 26 or later**
 
 ## How to run
@@ -40,9 +40,9 @@ Compile the program using **javac Simple_Calculator.java** then run it with **ja
 
 ## Usage
 
-When you execute the program you will see a "menu" with 4 options.
-To select what option do you want, press the number of that option and enter (not at the same time)
-then it will move you to the "menu" that you selected.
+When you execute the program you will see a "menu" with 4 options.  
+To select what option do you want, press the number of that option and enter (not at the same time)  
+then it will move you to the "menu" that you selected.  
 
 it's very intuitive, you only have to remember that you have to press a number + enter, not only the number.
 
