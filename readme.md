@@ -3,7 +3,7 @@
 ## Description
 
 This is the repo where I will upload all of my "things" source code  
-If I like very much a "thing" and I make changes constantlly, it will have they own repo with releases and source code  
+If I like very much a "thing" and I make changes constantlly, it will have they own repo with releases and source code (if that happens, do not download source code from here, it will be out-of-date)  
 If I don't like a "thing" I will abandon it to die  
 
 ## Requirements
