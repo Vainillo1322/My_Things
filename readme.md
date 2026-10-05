@@ -12,7 +12,7 @@ I don't know, really.
 That's because when I created this readme I was learning java, and maybe in a couple weeks i'm doing C# or Python.  
 But here I will (try to) mantain a list of all the "things" and what Requirements do they have:
 
-- SimpleCalculator: JDK 26 or later (you have to compile it)
+- SimpleCalculator (NOT UPDATED): JDK 26 or later (you have to compile it)
 
 and that's it (for the moment)  
 
